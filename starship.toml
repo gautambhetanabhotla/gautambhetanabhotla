@@ -28,7 +28,6 @@ $hg_branch\
 $pijul_channel\
 $docker_context\
 $package\
-$c\
 $cmake\
 $cobol\
 $daml\
@@ -83,7 +82,6 @@ $crystal\
 $custom\
 $status\
 $os\
-$battery\
 $time"""
 
 [fill]
@@ -313,3 +311,6 @@ unknown_msg = '[◌](bold dimmed ellow)'
 [spack]
 symbol = "◇ "
 format = " spack [$symbol$environment]($style)"
+
+[gcloud]
+disabled = true
