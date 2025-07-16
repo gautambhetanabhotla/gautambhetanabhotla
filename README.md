@@ -1,6 +1,10 @@
-# Gautam Bhetanabhotla
+<h1 align="center">Gautam Bhetanabhotla</h1>
+<h3 align="center">CSE @ IIIT Hyderabad | Software developer | Video editor</h3>
 
-Hi! I'm a passionate software developer with experience in C, C++ and Python, and more. I am particularly interested in UI design and development.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gautambhetanabhotla&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautambhetanabhotla&layout=compact&theme=github_dark" />
+</p>
 
 ## Tools and technologies
 
